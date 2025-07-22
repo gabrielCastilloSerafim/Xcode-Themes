@@ -7,7 +7,7 @@
 	<key>DVTConsoleDebuggerInputTextFont</key>
 	<string>SFMono-Medium - 13.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0.937255 0.737255 0.607843 1</string>
+	<string>0.843137 0.752941 0.635294 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
 	<string>SFMono-Medium - 13.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
